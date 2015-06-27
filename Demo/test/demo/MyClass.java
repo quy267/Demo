@@ -10,6 +10,7 @@ public class MyClass {
 		System.out.println("Hello Word!");
 		
 		System.out.println("I am a Coder");
+		System.out.println("I am a Developer");
 
 	}
 }
